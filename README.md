@@ -108,6 +108,8 @@ To confirm delivery ,the customer must enter his password when the order is deli
 31.ABOUT
 Activity displaying the details of the developer and link to his social media handles.
 
-THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENT ARE ALWAYS WELCOME
+
+
+        THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENT ARE ALWAYS WELCOME
 
 
