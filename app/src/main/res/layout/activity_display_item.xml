@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DisplayItem">
+
+    <ImageView
+        android:id="@+id/item_display"
+        android:layout_width="match_parent"
+        android:layout_height="450dp"
+        android:padding="5dp" />
+
+    <TextView
+        android:id="@+id/item_details_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/item_display"
+        android:textAlignment="center"/>
+    <TextView
+        android:id="@+id/item_price_display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_below="@+id/item_details_display"/>
+
+    <Button
+        android:id="@+id/order_shown_item"
+        android:layout_width="410dp"
+        android:layout_height="59dp"
+        android:layout_below="@id/item_price_display"
+        android:layout_marginTop="63dp"
+        android:backgroundTint="#e91e63"
+        android:text="Place Order"
+        android:textAlignment="center"
+        android:textColor="@color/whiteColor"
+        android:textSize="18sp" />
+
+</RelativeLayout>

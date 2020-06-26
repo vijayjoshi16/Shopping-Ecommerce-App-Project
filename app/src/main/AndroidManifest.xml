@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.smartkartapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".About"></activity>
+        <activity android:name=".AddStock" />
+        <activity android:name=".Shoes" />
+        <activity android:name=".BottomWear" />
+        <activity android:name=".Formals" />
+        <activity android:name=".tShirts" />
+        <activity android:name=".DisplayItem" />
+        <activity android:name=".WomensClothing" />
+        <activity android:name=".MensClothing" />
+        <activity android:name=".OtherItems" />
+        <activity android:name=".Books" />
+        <activity android:name=".Electronics" />
+        <activity android:name=".Clothing" />
+        <activity android:name=".CurrentOrderStatus" />
+        <activity android:name=".AcceptOrders" />
+        <activity android:name=".AddStaff" />
+        <activity android:name=".PlaceOrder" />
+        <activity android:name=".StaffLogin" />
+        <activity android:name=".StaffHomePage" />
+        <activity android:name=".AdminHomePage" />
+        <activity android:name=".AdminLogin" />
+        <activity
+            android:name=".HomePageActivity"
+            android:label="@string/title_activity_home_page"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".RegisterPage" />
+        <activity android:name=".LoginPage" />
+        <activity android:name=".RegLogChoice" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
