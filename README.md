@@ -5,7 +5,12 @@ Online shopping App built on Android Studio and Firebase Realtime Database.
 Ecommerce App/Shopping App/Smartkart App
 This android application is an online shopping app developed by Vijay Joshi (i.e,me),a student of B.Tech 2nd Year Computer Science and Engineering at Indian Institute of Information Technology, Pune.I started developing this app in February 2020 for my self-learning, sheer interest in android development and my project(educational purposes only).
 
-                                                   LANGUAGES USED:
+
+
+LANGUAGES USED:
+
+
+
 1.JAVA
 
 
@@ -13,7 +18,10 @@ This android application is an online shopping app developed by Vijay Joshi (i.e
 
                                                                          
                                                                          
-                                            TOOLS AND TECHNOLOGIES USED:
+TOOLS AND TECHNOLOGIES USED:
+
+
+
 1.ANDROID STUDIO(FOR DEVELOPMENT PURPOSE)
 
 
@@ -21,7 +29,10 @@ This android application is an online shopping app developed by Vijay Joshi (i.e
 
                                                                    
                                                                    
-                                      DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
+DESCRIPTION OF EACH ACTIVITY/JAVA FILE:
+
+
+
 1.MAIN ACTIVITY:
 Welcome screen of the app which shows the app logo and a background for 2 seconds and then proceeds to the next activity.
 
@@ -110,6 +121,6 @@ Activity displaying the details of the developer and link to his social media ha
 
 
 
-        THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENT ARE ALWAYS WELCOME
+THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENT ARE ALWAYS WELCOME
 
 
