@@ -3,7 +3,7 @@ Online shopping App built on Android Studio and Firebase Realtime Database.
 
 
 Ecommerce App/Shopping App/Smartkart App
-This android application is an online shopping app developed by Vijay Joshi (i.e,me),a student of B.Tech 2nd Year Computer Science and Engineering at Indian Institute of Information Technology, Pune.I started developing this app in February 2020 for my self-learning, sheer interest in android development and my project(educational purposes only).
+This android application is an online shopping app developed by Vijay Joshi (i.e,me),a student of B.Tech 2nd Year Computer Science and Engineering at Indian Institute of Information Technology, Pune.I started developing this app in February 2020 for my self-learning, sheer interest in android development and my project
 
 
 
@@ -102,6 +102,10 @@ Java file containing constructor to initialize database objects for placed order
 Login Page for admin of the organization(app company)
 <br>
 <img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/09.Admin%20Login.png" width=250 height=500 style="border-radius:5%">
+<br>
+<b>ADMIN USERNAME-smartkart<b>
+<br>
+<b>ADMIN PASSWORD-appadmin123<b>
 <br>
 22.ADMIN HOME PAGE:
 <br>
