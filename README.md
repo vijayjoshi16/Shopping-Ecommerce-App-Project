@@ -103,9 +103,9 @@ Login Page for admin of the organization(app company)
 <br>
 <img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/09.Admin%20Login.png" width=250 height=500 style="border-radius:5%">
 <br>
-<b>ADMIN USERNAME-smartkart<b>
+<b>ADMIN USERNAME-smartkart
 <br>
-<b>ADMIN PASSWORD-appadmin123<b>
+ADMIN PASSWORD-appadmin123</b>
 <br>
 22.ADMIN HOME PAGE:
 <br>
