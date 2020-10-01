@@ -1,5 +1,5 @@
 # <center><h1>Shopping-Ecommerce-App-Project</h1></center>
-Online shopping App built on Android Studio, Firebase Realtime Database and Firebase Authentication.
+Online shopping App built on Android Studio and Firebase Realtime Database.
 
 
 Ecommerce App/Shopping App/Smartkart App
@@ -25,10 +25,8 @@ This android application is an online shopping app developed by me.I started dev
 1.ANDROID STUDIO(FOR DEVELOPMENT PURPOSE)
 
 
-2.Firebase Authentication
 
-
-3.FIREBASE REALTIME DATABASE
+2.FIREBASE REALTIME DATABASE
 
                                                                    
                                                                    
