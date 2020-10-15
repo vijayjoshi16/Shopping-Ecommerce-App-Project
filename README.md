@@ -1,5 +1,5 @@
 <h1 align="center">Shopping-Ecommerce-App-Project</h1>
-Online shopping App built on Android Studio and Firebase Realtime Database.
+<h3 align="center">Online shopping App built on Android Studio and Firebase Realtime Database.</h3>
 <img src="https://github.com/vijayjoshi16/Shopping-Ecommerce-App-Project/blob/master/App%20Screenshots/logo.png?raw=true"/>
 This is an online shopping app developed by me.I started developing this app in February 2020 for my self-learning, sheer interest in android development and my project
 
