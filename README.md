@@ -1,7 +1,6 @@
 <h1 align="center">Shopping-Ecommerce-App-Project</h1>
-<h3 align="center">Online shopping App built on Android Studio and Firebase Realtime Database.</h3>
-<img src="https://github.com/vijayjoshi16/Shopping-Ecommerce-App-Project/blob/master/App%20Screenshots/logo.png?raw=true"/>
-This is an online shopping app developed by me.I started developing this app in February 2020 for my self-learning, sheer interest in android development and my project
+<h3 align="center">Online Ecommerce App built on Android Studio and Firebase Realtime Database.</h3>
+<p align="center"><img src="https://github.com/vijayjoshi16/Shopping-Ecommerce-App-Project/blob/master/App%20Screenshots/logo.png?raw=true"/></p>
 
 
 
@@ -162,6 +161,10 @@ Activity displaying the details of the developer and link to his social media ha
 <img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/17.About%20Section.png" width=250 height=500 style="border-radius:5%">
 <br>
 
-<h3><i><center>THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENTS IN THIS PROJECT ARE ALWAYS WELCOME</center></i></h3>
+
+<h3 align="center">Loved this project?? If yes, don't forget to give it a ⭐ and share it with your friends 😃</h3>
+<h3 align="center">Check out my other works at https://github.com/vijayjoshi16</h3>
+
+<h3 align="center"><i><center>THANK YOU FOR READING THE DESCRIPTION OF THIS PROJECT,POINTERS TO FURTHER IMPROVEMENTS IN THIS PROJECT ARE ALWAYS WELCOME</center></i></h3>
 
 
