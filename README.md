@@ -154,12 +154,6 @@ To confirm delivery ,the customer must enter his password when the order is deli
 <br>
 <img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/16.Confirm%20order%20delivery%20from%20customer.png" width=250 height=500 style="border-radius:5%">
 <br>
-31.ABOUT
-<br>
-Activity displaying the details of the developer and link to his social media handles.
-<br>
-<img src="https://raw.githubusercontent.com/vijayjoshi16/Shopping-Ecommerce-App-Project/master/App%20Screenshots/17.About%20Section.png" width=250 height=500 style="border-radius:5%">
-<br>
 
 
 <h3 align="center">Loved this project?? If yes, don't forget to give it a ⭐ and share it with your friends 😃</h3>
